@@ -90,7 +90,7 @@ DATABASES/
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <url-репозитория>
+   git clone <https://github.com/lavren007/DATABASE>
    cd DATABASES
    ```
 
